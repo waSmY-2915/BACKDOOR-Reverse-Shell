@@ -98,8 +98,8 @@ The project uses Python's **standard library**, so no third-party packages are r
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
-cd <repository-name>
+git clone https://github.com/waSmY-2915/BACKDOOR-Reverse-Shell
+cd BACKDOOR-Reverse-Shell
 ```
 
 ### 2. Configure the Connection
